@@ -1,0 +1,3 @@
+- Spring Batch Partitioner Sample is all about scaling the batch process using prtitioner module of spring-batch
+- Keywords: spring-boot, spring-batch, spring batch scaling, spring batch partitioner
+- Spring Batch Partition er - Select Update - Horizontal Scaling (Docker, Kubernetes)
